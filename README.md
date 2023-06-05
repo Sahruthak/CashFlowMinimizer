@@ -52,7 +52,7 @@ Following are the payments to be done:
 4.  Goldman_Sachs                Westpac                 Rs 100
 5.  World_Bank                   ICIC                    Rs 300
 6.  ICIC                         National_China_Bank     Rs 200
-7.  National_China_Bank          Westpac                 Rs 400
+7.  National_China_Bank          Westpac                 Rs 500
 8.  Nepal_national_bank          World_Bank              Rs 500
 9.  Nepal_national_bank          National_China_Bank     Rs 400
 </pre>
