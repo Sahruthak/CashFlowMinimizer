@@ -54,4 +54,5 @@ Following are the payments to be done:
 </pre>
 <br>
 This is represented below as a directed graph with the directed edge representing debts.
-![Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/d8527383-57bf-4a53-98f4-d3d870596620)
+
+https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/d8527383-57bf-4a53-98f4-d3d870596620
