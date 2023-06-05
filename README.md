@@ -108,7 +108,6 @@ For the current example, the transactions for minimum cash flow are as follows:
 So this is the required answer.
 <br>
 <h2> How to Use? </h2>
-<br>
 This system is completely menu-driven. So when you will run the C++ Application, it will guide you and show you the final output.
 <br>
 <br>
