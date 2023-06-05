@@ -33,9 +33,20 @@ The Cash Flow Minimizer project uses data structures like arrays, lists, sets, a
 <pre>
 Let's take an example. say we have the following banks:
 1. World_bank
-2. Nepal_national _bank
-3. ICIC
-4. Westpac
-5. National_China_Bank
-6. Goldman_Sachs
+2. ICIC
+3. Westpac
+4. National_China_Bank
+5. Goldman_Sachs
+6. Nepal_national_bank
 </pre>
+Following are the payments to be done:
+    Debtor Bank                  Creditor Bank           Amount
+1.  Goldman_Sachs                World_Bank              Rs 300
+2.  Goldman_Sachs                ICIC                    Rs 100
+3.  Goldman_Sachs                National_China_Bank     Rs 200
+4.  Goldman_Sachs                Westpac                 Rs 100
+5.  World_Bank                   ICIC                    Rs 300
+6.  ICIC                         National_China_Bank     Rs 200
+7.  National_China_Bank          Westpac                 Rs 400
+8.  Nepal_national_bank          World_Bank              Rs 500
+9.  Nepal_national_bank          National_China_Bank     Rs 400
