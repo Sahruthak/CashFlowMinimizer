@@ -25,7 +25,16 @@ The algorithm used in this project is based on the concept of finding the net am
 <br>
 7. Implement the main method, which serves as the entry point of the program. It prompts the user to input the number of banks, bank details (name, number of payment modes, and payment modes), number of transactions, and transaction details (sender bank, receiver bank, and amount). It then calls the minimizeCashFlow method with the provided inputs to calculate and print the minimum cash flow transactions.<br>
 <br>
-<br>
 The Cash Flow Minimizer project uses data structures like arrays, lists, sets, and maps to store and process the bank and transaction information efficiently. The algorithm ensures that the cash flow is minimized by determining the optimal transactions between banks based on their net amounts and common payment types.Overall, this project provides a practical solution to optimize cash flow transactions among multiple banks, considering their different payment modes, and minimizes the number of transactions required to settle the debts.
 <br>
 <br>
+<h3>Getting Started</h3>
+<pre>
+Let's take an example. say we have the following banks:
+1. World_bank
+2. Nepal_national _bank
+3. ICIC
+4. Westpac
+5. National_China_Bank
+6. Goldman_Sachs
+</pre>
