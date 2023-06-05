@@ -94,9 +94,11 @@ Now the idea is that we are finding the bank which has minimum net amount(max de
 Now X pays the amount z to Y. Then 3 cases may arrived:
 <br>
 <br>
-If (magnitude of x) < y => X is completely settled and so removed from the list.
-If (magnitude of x) > y => Y is completely settled and so removed from the list.
-If (magnitude of x) = y => X and Y both are completely settled and so both are removed from the list.
+1. If (magnitude of x) < y => X is completely settled and so removed from the list.
+<br>
+2. If (magnitude of x) > y => Y is completely settled and so removed from the list.
+<br>
+3. If (magnitude of x) = y => X and Y both are completely settled and so both are removed from the list.
 The same process is repeated for the remaining banks.
 <br>
 <br>
