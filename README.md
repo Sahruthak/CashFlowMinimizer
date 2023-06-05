@@ -39,6 +39,8 @@ Let's take an example. say we have the following banks:
 6. Nepal_national_bank
 </pre>
 <br>
+This is represented below as a graph.
+![Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/d8527383-57bf-4a53-98f4-d3d870596620)
 <pre>
 Following are the payments to be done:
     Debtor Bank                  Creditor Bank           Amount
@@ -54,5 +56,4 @@ Following are the payments to be done:
 </pre>
 <br>
 This is represented below as a directed graph with the directed edge representing debts.
-
-![Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/d8527383-57bf-4a53-98f4-d3d870596620)
+![Copy of Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/72d7f9de-88a4-4f28-b50f-99590e03f1fa)
