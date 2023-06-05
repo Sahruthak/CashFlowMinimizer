@@ -62,31 +62,36 @@ This is represented below as a directed graph with the directed edge representin
 ![Copy of Organization Structure Chart Infographic Graph (1)](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/65fad728-3875-4793-b73e-edd9e9131fcf)
 
 <br>
-<pre>
 But there's a catch!! Each Bank only supports a set of modes of payments and can make or receive payments only via those. Only World Bank suppports all modes of payments. In our current example we have only three payment modes :
-
+<br>
 Google_Pay
+<br>
 AliPay
+<br>
 Paytm
-Following is the list of Banks and their supported payment modes :
+<br>
 
+<pre>
+Following is the list of Banks and their supported payment modes :
 Bank_of_America             -   Google_Pay, AliPay, Paytm
 Wells_Fargo                 -   Google_Pay, AliPay
 Royal_Bank_of_Canada        -   AliPay
 Westpac                     -   Google_Pay, Paytm
 Goldman_Sachs               -   Paytm
 National_Australia_Bank     -   AliPay, Paytm
+</pre>
+
 To pick the first Bank, we calculate the net amount for every Bank by using the below formula and store them in list:
-
+<br>
 net amount = [Sum of all credits(amounts to be received)] - [Sum of all debits(amounts to pay)]
-
+<br>
 Now the idea is that we are finding the bank which has minimum net amount(max debtor) (say Bank X, net amount x) and then finding the bank which has the maximum net amount( max creditor) (say Bank Y, net amount y) and also has a common payment mode (say M1) with the former bank. Then we find minimum of absolute value of x and y, lets call it z.
+<br>
 Now X pays the amount z to Y. Then 3 cases may arrived:
-
+<br>
 If (magnitude of x) < y => X is completely settled and so removed from the list.
 If (magnitude of x) > y => Y is completely settled and so removed from the list.
 If (magnitude of x) = y => X and Y both are completely settled and so both are removed from the list.
 The same process is repeated for the remaining banks.
-</pre>
 <br>
 For the current example, the transactions for minimum cash flow are as follows:
