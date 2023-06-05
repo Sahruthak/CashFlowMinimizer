@@ -111,7 +111,8 @@ So this is the required answer.
 <br>
 This system is completely menu-driven. So when you will run the C++ Application, it will guide you and show you the final output.
 <br>
+<br>
 Below is the execution of our current example:
 <br>
-
+<br>
 ![CashOutput](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/14b7ea60-ce2a-4f64-aeca-a3d2b8e7a0ae)
