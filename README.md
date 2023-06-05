@@ -47,7 +47,7 @@ This is represented below as a graph.
 Following are the payments to be done:
     Debtor Bank                  Creditor Bank           Amount
 1.  Goldman_Sachs                World_Bank              Rs 300
-2.  Goldman_Sachs                ICIC                    Rs 100
+2.  Goldman_Sachs                ICIC                    Rs 300
 3.  Goldman_Sachs                National_China_Bank     Rs 200
 4.  Goldman_Sachs                Westpac                 Rs 100
 5.  World_Bank                   ICIC                    Rs 300
@@ -59,7 +59,7 @@ Following are the payments to be done:
 <br>
 This is represented below as a directed graph with the directed edge representing debts.
 
-![Copy of Organization Structure Chart Infographic Graph (1)](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/65fad728-3875-4793-b73e-edd9e9131fcf)
+![Copy of Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/aa6aad2a-e7dc-4166-84ee-5396b11aae33)
 
 <br>
 But there's a catch! Each Bank only supports a set of modes of payments and can make or receive payments only via those. Only World Bank suppports all modes of payments. In our current example we have only three payment modes:
@@ -101,3 +101,6 @@ The same process is repeated for the remaining banks.
 <br>
 <br>
 For the current example, the transactions for minimum cash flow are as follows:
+
+
+![Copy of Copy of Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/6774d028-2a5d-4edd-9864-c984a2b367c8)
