@@ -39,6 +39,8 @@ Let's take an example. say we have the following banks:
 5. Goldman_Sachs
 6. Nepal_national_bank
 </pre>
+<br>
+<pre>
 Following are the payments to be done:
     Debtor Bank                  Creditor Bank           Amount
 1.  Goldman_Sachs                World_Bank              Rs 300
@@ -50,3 +52,5 @@ Following are the payments to be done:
 7.  National_China_Bank          Westpac                 Rs 400
 8.  Nepal_national_bank          World_Bank              Rs 500
 9.  Nepal_national_bank          National_China_Bank     Rs 400
+</pre>
+<br>
