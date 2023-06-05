@@ -73,12 +73,13 @@ Paytm
 
 <pre>
 Following is the list of Banks and their supported payment modes :
-Bank_of_America             -   Google_Pay, AliPay, Paytm
-Wells_Fargo                 -   Google_Pay, AliPay
-Royal_Bank_of_Canada        -   AliPay
+
+World_Bank                  -   Google_Pay, AliPay, Paytm
+National_China_Bank         -   AliPay, Paytm
+ICIC                        -   Paytm, Google_Pay
+Nepal_national _bank        -   AliPay
 Westpac                     -   Google_Pay, Paytm
 Goldman_Sachs               -   Paytm
-National_Australia_Bank     -   AliPay, Paytm
 </pre>
 <br>
 To pick the first Bank, we calculate the net amount for every Bank by using the below formula and store them in list:
