@@ -1,5 +1,5 @@
 # CashFlowMinimizer
-<h2> Welcome to the Cash-Flow-Minimizer System README !! <h2>
+<h2> Welcome to the Cash-Flow-Minimizer System README !! </h2>
 The Cash Flow Minimizer project aims to minimize the number of transactions among multiple banks with different payment modes. It solves the problem of finding an optimal solution to settle the debts between banks using the minimum number of transactions.There is one world bank (with all payment modes) to act as an intermediary between banks that have no common mode of payment.
 <pre>
  The algorithm used in this project is based on the concept of finding the net amount for each bank and then determining the transactions required to balance the cash flow. The algorithm consists of the following steps:
@@ -12,4 +12,4 @@ The Cash Flow Minimizer project aims to minimize the number of transactions amon
 7.Implement the main method, which serves as the entry point of the program. It prompts the user to input the number of banks, bank details (name, number of payment modes, and payment modes), number of transactions, and transaction details (sender bank, receiver bank, and amount). It then calls the minimizeCashFlow method with the provided inputs to calculate and print the minimum cash flow transactions.
 
 The Cash Flow Minimizer project uses data structures like arrays, lists, sets, and maps to store and process the bank and transaction information efficiently. The algorithm ensures that the cash flow is minimized by determining the optimal transactions between banks based on their net amounts and common payment types.Overall, this project provides a practical solution to optimize cash flow transactions among multiple banks, considering their different payment modes, and minimizes the number of transactions required to settle the debts.
-<pre>
+</pre>
