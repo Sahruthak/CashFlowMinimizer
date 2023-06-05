@@ -106,12 +106,11 @@ For the current example, the transactions for minimum cash flow are as follows:
 ![Copy of Copy of Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/6774d028-2a5d-4edd-9864-c984a2b367c8)
 
 So this is the required answer.
-<h2> How to Use? <h2>
-
+<br>
+<h2> How to Use? </h2>
 <br>
 This system is completely menu-driven. So when you will run the C++ Application, it will guide you and show you the final output.
 <br>
- 
 Below is the execution of our current example:
 <br>
 
