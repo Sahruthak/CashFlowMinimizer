@@ -1,4 +1,5 @@
 # Cash Flow Minimizer Project
+<br>
 <h2> Welcome to the Cash-Flow-Minimizer System Introduction </h2>
 The Cash Flow Minimizer project aims to minimize the number of transactions among multiple banks with different payment modes. It solves the problem of finding an optimal solution to settle the debts between banks using the minimum number of transactions.There is one world bank (with all payment modes) to act as an intermediary between banks that have no common mode of payment.
 <br>
@@ -70,7 +71,7 @@ AliPay
 <br>
 Paytm
 <br>
-
+<hr>
 <pre>
 Following is the list of Banks and their supported payment modes :
 
@@ -103,7 +104,7 @@ The same process is repeated for the remaining banks.
 <br>
 <br>
 For the current example, the transactions for minimum cash flow are as follows:
-
+<hr>
 
 ![Copy of Copy of Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/6774d028-2a5d-4edd-9864-c984a2b367c8)
 
