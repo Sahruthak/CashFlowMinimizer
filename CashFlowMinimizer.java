@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Bank {
     public String name;
     public int netAmount;
