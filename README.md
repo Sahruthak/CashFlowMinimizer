@@ -1,4 +1,3 @@
-
 # Cash Flow Minimizer Project
 <br>
 <h2> Welcome to the Cash-Flow-Minimizer System Introduction </h2>
