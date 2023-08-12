@@ -1,6 +1,4 @@
 # Cash Flow Minimizer Project
-<hr>
-
 
 
 <br>
