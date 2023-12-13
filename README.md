@@ -4,7 +4,6 @@ The Cash Flow Minimizer project aims to minimize the number of transactions amon
 <br>
 
 
-
 <br>
 The algorithm used in this project is based on the concept of finding the net amount for each bank and then determining the transactions required to balance the cash flow. The algorithm consists of the following steps:
 <br>
