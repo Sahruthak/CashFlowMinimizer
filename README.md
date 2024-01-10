@@ -1,4 +1,3 @@
-
 # Cash Flow Minimizer Project
 <h1> Welcome to the Cash-Flow-Minimizer System Introduction </h1>
 
@@ -9,7 +8,6 @@ The algorithm used in this project is based on the concept of finding the net am
 <br>
 <br>
 1. Create a Bank class that represents each bank participating in the transactions. The Bank class has attributes such as the bank's name, net amount, and a set of payment modes it supports.
-<br>
 <br>
 2. Implement the getMinIndex method, which finds the bank with the minimum net amount from the list of banks. It skips the bank if its net amount is already zero.
 <br>
