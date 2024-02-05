@@ -1,5 +1,4 @@
 # Cash Flow Minimizer Project
-
 <h1> Welcome to the Cash-Flow-Minimizer System Introduction </h1>
 The Cash Flow Minimizer project aims to minimize the number of transactions among multiple banks with different payment modes. It solves the problem of finding an optimal solution to settle the debts between banks using the minimum number of transactions.There is one world bank (with all payment modes) to act as an intermediary between banks that have no common mode of payment.
 <br>
