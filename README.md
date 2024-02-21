@@ -34,6 +34,7 @@ Let's take an example. say we have the following banks:
 <br>
 This is represented below as a graph.
 
+
 ![Organization Structure Chart Infographic Graph](https://github.com/Sahruthak/CashFlowMinimizer/assets/107304838/d8527383-57bf-4a53-98f4-d3d870596620)
 
 <pre>
