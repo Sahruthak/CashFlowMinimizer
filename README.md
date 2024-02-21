@@ -9,11 +9,8 @@ The algorithm used in this project is based on the concept of finding the net am
 <br>
 
 1. Create a Bank class that represents each bank participating in the transactions. The Bank class has attributes such as the bank's name, net amount, and a set of payment modes it supports.
-
 2. Implement the getMinIndex method, which finds the bank with the minimum net amount from the list of banks. It skips the bank if its net amount is already zero.
-
 3. Implement the getSimpleMaxIndex method, which finds the bank with the maximum net amount from the list of banks. It skips the bank if its net amount is zero.
-
 4. Implement the getMaxIndex method, which finds the bank with the maximum net amount and a common payment type with the bank having the minimum net amount. It iterates over the banks, checks if the net amount is positive, and finds the common payment type using the intersection operation on the sets of payment modes.
 
 5. Implement the printAns method, which prints the transactions required for minimizing the cash flow. It iterates over the banks and prints the transactions between banks where the net amount is non-zero. It updates the net amounts and sets the transaction amounts to zero after printing.
