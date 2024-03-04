@@ -25,7 +25,9 @@ The algorithm used in this project is based on the concept of finding the net am
 <br>
 The Cash Flow Minimizer project uses data structures like arrays, lists, sets, and maps to store and process the bank and transaction information efficiently. The algorithm ensures that the cash flow is minimized by determining the optimal transactions between banks based on their net amounts and common payment types.Overall, this project provides a practical solution to optimize cash flow transactions among multiple banks, considering their different payment modes, and minimizes the number of transactions required to settle the debts.
 <br>
+
 <h2>Getting Started</h2>
+
 <pre>
 Let's take an example. say we have the following banks:
 1. World_bank
