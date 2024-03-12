@@ -37,7 +37,9 @@ Let's take an example. say we have the following banks:
 5. Goldman_Sachs
 6. Nepal_national_bank
 </pre>
+
 <br>
+
 This is represented below as a graph.
 
 
